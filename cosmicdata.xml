@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cosmicdata>
+	<event>
+		<pic>bigbang.jpg</pic>
+		<date>13798000000</date>
+		<eventTitle>Big Bang</eventTitle>
+		<description>This is where the whole thing started. Before, the universe used to be hotter and denser.</description>
+	</event>
+	<event>
+		<pic>firstgenerationstars.jpg</pic>
+		<date>13300000000</date>
+		<eventTitle>First Generation Stars</eventTitle>
+		<description>The very first stars in the Universe formed. These were massive, about 100 times heavier than the sun.</description>
+	</event>
+	<event>
+		<pic>firstsupernova.jpg</pic>
+		<date>12800000000</date>
+		<eventTitle>First Super Nova</eventTitle>
+		<description>Supernovva is a steller explosion that outshines the entire galaxy and it radiates as much energy as the Sun is expected to omit in its entire life span. Basically, a huge explosion of the core of a galaxy.</description>
+	</event>
+	<event>
+		<pic>firstblackhole.jpg</pic>
+		<date>12800000000</date>
+		<eventTitle>First Black Hole</eventTitle>
+		<description>The first black hole, the gravity that sucks everything, even light, and that's why it's 'black'.</description>
+	</event>
+	<event>
+		<pic>formationofmilkyway.jpg</pic>
+		<date>11000000000</date>
+		<eventTitle>Formation of Milky Way</eventTitle>
+		<description>Milky way was created about 13.6 billion years ago, give or take 800 million years. This the house of our solar system, it's just that it's a gigantic house.</description>
+	</event>
+	<event>
+		<pic>sunwasformed.jpg</pic>
+		<date>4570000000</date>
+		<eventTitle>Sun was formed</eventTitle>
+		<description>Sun was formed. Our solar system, including the Earth and the moon, were formed soon after.</description>
+	</event>
+	<event>
+		<pic>earthwasformed.jpg</pic>
+		<date>4540000000</date>
+		<eventTitle>Earth was formed</eventTitle>
+		<description>Earth was formed 4.54 billion years ago. It may seem old, but it's already August in cosmic calender.</description>
+	</event>
+	<event>
+		<pic>firstlifeonearth.jpg</pic>
+		<date>3800000000</date>
+		<eventTitle>First Life on Earth</eventTitle>
+		<description>Life appeared on earth 3.8 billion years ago. It was a prokaryotic cell (simpler than eukaryotic cells). The picture is the environment that our scientists think the first life was created.</description>
+	</event>
+	<event>
+		<pic>photosynthesis.jpg</pic>
+		<date>3000000000</date>
+		<eventTitle>Photosynthesis</eventTitle>
+		<description>Plants on Earth started doing photosynthesis, which which made oxygen.</description>
+	</event>
+	<event>
+		<pic>oxygenationofatomosphere.jpg</pic>
+		<date>2400000000</date>
+		<eventTitle>Oxygenation of Atomosphere</eventTitle>
+		<description>Oxygen started to appear on Earth.</description>
+	</event>
+	<event>
+		<pic>complexcells.jpg</pic>
+		<date>2000000000</date>
+		<eventTitle>Complex Cells</eventTitle>
+		<description>Complex cells were created. Our cells in our bodies are complex cells, unlike the first ever cell on Earth.</description>
+	</event>
+	<event>
+		<pic>firstmulticellularlife.jpg</pic>
+		<date>1000000000</date>
+		<eventTitle>First Multicellular Life</eventTitle>
+		<description>First multicellular animals. It was revolutionary because before this, for 3 billion years, all of the organisms used to be a single cell. Can you believe it?</description>
+	</event>
+	<event>
+		<pic>firsthumans.jpg</pic>
+		<date>209000</date>
+		<eventTitle>First Humans</eventTitle>
+		<description>Our first human ancesters were born about 200,000 years ago.</description>
+	</event>
+	<event>
+		<pic>humansobtainfire.jpg</pic>
+		<date>164000</date>
+		<eventTitle>Humans Obtain Fire</eventTitle>
+		<description>We invented fire, and we learned to control it. This accelerated the development of our species.</description>
+	</event>
+</cosmicdata>
